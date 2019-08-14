@@ -11,12 +11,10 @@
 
 [ShootHero](https://github.com/BUGyyc/MyGallery/blob/master/res/game4.png)
 
-[FlyChicken](https://github.com/BUGyyc/MyGallery/blob/master/res/pic1.png)
 
 
+| ![????](https://raw.githubusercontent.com/BUGyyc/MyGallery/master/res/game2.jpg) |      |
+| ------------------------------------------------------------ | ---- |
+| ![????](https://github.com/BUGyyc/MyGallery/blob/master/res/game4.png) |      |
+| ![????](https://raw.githubusercontent.com/BUGyyc/MyGallery/master/res/game3.png) |![????](https://raw.githubusercontent.com/BUGyyc/MyGallery/master/res/game1.png)|
 
-![????](https://raw.githubusercontent.com/BUGyyc/MyGallery/master/res/game2.jpg)
-
-![????](https://raw.githubusercontent.com/BUGyyc/MyGallery/master/res/game3.png)
-
-![????](https://github.com/BUGyyc/MyGallery/blob/master/res/game4.png)
